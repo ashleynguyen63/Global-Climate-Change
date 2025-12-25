@@ -1,0 +1,6 @@
+pandas
+seaborn
+ibis-framework[duckdb]
+nbval
+plotnine
+pytest
